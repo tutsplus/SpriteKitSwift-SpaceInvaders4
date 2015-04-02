@@ -1,9 +1,9 @@
-### Create a Space Invaders Game with SpriteKit and Swift: Finishing Gameplay
+### Create Space Invaders with Swift and Sprite Kit: Finishing Gameplay
 #### Instructor: James Tyner
 
-In this series I will be teaching you how to create a Space Invaders inspired game using Sprite Kit and the Swift programming language. Along the way, you will create several classes, learn about Sprite Kit's integrated physics engine, generate particles using Sprite Kit's built-in particle editor, use the accelerometer to move a player, and much more.
+In the previous part of this series, we made the invaders move, the player and invaders fire bullets, and implemented collision detection. In the fourth and final part of this series, we will add the ability to move the player using the accelerometer, manage the levels, and ensure the player dies when hit by a bullet. Let's get started.
 
-Source files for the Tuts+ tutorial: [Create a Space Invaders Game with SpriteKit and Swift: Finishing Gameplay
-](http://code.tutsplus.com/tutorials/create-a-space-invaders-game-with-spritekit-and-swift-finishing-gameplay--cms-23381)
+Source files for the Tuts+ tutorial: [Create Space Invaders with Swift and Sprite Kit: Finishing Gameplay
+](http://code.tutsplus.com/tutorials/create-space-invaders-with-swift-and-sprite-kit-finishing-gameplay--cms-23381)
 
-**Available on "Pending"**
+**Read this tutorial on [Tuts+](https://code.tutsplus.com)**
