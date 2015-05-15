@@ -10,14 +10,14 @@
 	<string>MobileTutsInvaderz</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0940EAA6BD0A2DC656B68574F15AAD71BD3F78D3</key>
+		<key>759C41C9B459A6725E5D8876ECC5297677BD8BD6</key>
 		<string>https://github.com/jamestutsplus/SpriteKitSwift-SpaceInvaders4.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MobileTutsInvaderz.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0940EAA6BD0A2DC656B68574F15AAD71BD3F78D3</key>
+		<key>759C41C9B459A6725E5D8876ECC5297677BD8BD6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0940EAA6BD0A2DC656B68574F15AAD71BD3F78D3</string>
+	<string>759C41C9B459A6725E5D8876ECC5297677BD8BD6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0940EAA6BD0A2DC656B68574F15AAD71BD3F78D3</string>
+			<string>759C41C9B459A6725E5D8876ECC5297677BD8BD6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SpriteKitSwift-SpaceInvaders4</string>
 		</dict>
